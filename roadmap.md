@@ -1,0 +1,2 @@
+- [ ] Take notes.
+- [ ] Add auth.
